@@ -1,0 +1,19 @@
+1. Download the project from: https://mega.nz/#!52pWzSRI!ONB7oX8ASuocEzAgOuP4Oh32y2WDnkYZGG126zgt2ds
+
+2. Download Unity Hub and then download the Unity Version 2019.2.19 from: https://unity3d.com/get-unity/download/archive
+
+3. When installing Unity select to install anything related to Android
+
+4. Open Unity Engine and Create a new 3D Project
+
+5.Go to File -> Build Settings -> Select Android Platform and then Switch Platform
+
+6. Go to Assets -> Import Package -> Custom Package and import the package you download on step 1. (this prosses it will take around 10-20 minutes)
+
+7. A window will appear, select Import All
+
+8. Go to File -> Build Settings and leave the window open. Below the Unity Editor there is a window with the name "Project" which contains all the project files. Open the "Assets" folder and then open the "Scenes" folder. Drag-n-drop the "Menu" file and then the "Game" file to the Build Settings window, under the Scenes In Build.
+
+9. Close the Build Settings Window. Open any scene. Menu or Game
+
+10. Enjoy
